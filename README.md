@@ -65,6 +65,28 @@ to a detail screen of all the videos
 Wireframes
 ![IMG_7184](https://github.com/user-attachments/assets/b0fcad49-00e9-49d6-9245-5e23c20e9756)
 
+Main Features
+List down the major functionalities of your app. For example:
+
+[ ] Chord screen displaying music with chords
+[ ] Screen where you can record
+[ ] Screen where you can tune your guitar
+
+Sprint 1: Create each view
+Sprint 2: Connect views together using Navigation
+Sprint 3: Populate the chord screen with data using an API
+Sprint 4: Let the tuner screen tune a guitar using an API
+Sprint 5: Let user record a video
+
+<div>
+    <a href="https://www.loom.com/share/5e294c51d6f146788e79bcee7c225969">
+    </a>
+    <a href="https://www.loom.com/share/5e294c51d6f146788e79bcee7c225969">
+      <img style="max-width:300px;" src="https://cdn.loom.com/sessions/thumbnails/5e294c51d6f146788e79bcee7c225969-817c6594bc4933ad-full-play.gif">
+    </a>
+  </div>
+
+
 Schema
 [This section will be completed in Unit 9]
 
